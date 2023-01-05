@@ -1,6 +1,6 @@
 # Invisble Walls
-[![DOI](https://doi.org/10.1016/j.scs.2022.104364)]
-Companion data for reproduction of the paper __Invisible Walls: Exploration of Microclimate Effects on Building Energy Consumption in New York City__. 
+<!-- [![DOI](https://doi.org/10.1016/j.scs.2022.104364)] -->
+Companion data for reproduction of the paper [__Invisible Walls: Exploration of Microclimate Effects on Building Energy Consumption in New York City__](https://www.sciencedirect.com/science/article/pii/S2210670722006692). 
 
  ![plot](./images/electricity-impact.png)
 
