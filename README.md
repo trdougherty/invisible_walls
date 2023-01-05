@@ -2,7 +2,7 @@
 [![DOI](https://doi.org/10.1016/j.scs.2022.104364)]
 Companion data for reproduction of the paper __Invisible Walls: Exploration of Microclimate Effects on Building Energy Consumption in New York City__. 
 
- ![plot](./images/electricity-impact.png)
+ ![plot](./images/electricity-impact.png width="80")
 
 This work utilizes a new data collection pipeline provided by prior work [![DOI](https://zenodo.org/badge/481685323.svg)](https://zenodo.org/badge/latestdoi/481685323) to highlight a small case study of microclimate effects in New York City between 2018 and 2021. The full data required to rebuild this research (around 2GB) is hosted through Stanford library's research data deposit and can be found HERE.
 
