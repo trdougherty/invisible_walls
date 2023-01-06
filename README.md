@@ -1,8 +1,10 @@
 # Invisble Walls
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7508125.svg)](https://doi.org/10.5281/zenodo.7508125)
-Companion data for reproduction of the paper [__Invisible Walls: Exploration of Microclimate Effects on Building Energy Consumption in New York City__](https://www.sciencedirect.com/science/article/pii/S2210670722006692). 
+Companion data for reproduction of the paper [__Invisible Walls: Exploration of Microclimate Effects on Building Energy Consumption in New York City__](https://www.sciencedirect.com/science/article/pii/S2210670722006692).
 
  ![plot](./images/electricity-impact.png)
+
+ **NOTE:** The data required to rebuild this work can be found [here](https://purl.stanford.edu/sz846yd5641) with the Stanford Libraries data repository. You may also feel free to cite the data source independently and reference it using this DOI: https://doi.org/10.25740/sz846yd5641. Download the zip file and unzip it into this directory to rebuild the structure required.
 
 This work utilizes a new data collection pipeline provided by prior work [![DOI](https://zenodo.org/badge/481685323.svg)](https://zenodo.org/badge/latestdoi/481685323) to highlight a small case study of microclimate effects in New York City between 2018 and 2021. The full data required to rebuild this research (around 2GB) is hosted through Stanford library's research data deposit and can be found HERE.
 
